@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriso86&show_icons=true&theme=dark&count_private=true&langs_count=5)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chriso86)](https://github.com/chriso86/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lethiux)](https://github.com/chriso86/github-readme-stats)
