@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chriso86&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   5 hrs 11 mins   ██████████████░░░░░░░░░░░   55.86 % 
+HTML         2 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.54 % 
+SCSS         1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+```
 <!--END_SECTION:waka-->
